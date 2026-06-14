@@ -32,6 +32,7 @@ By predicting churn early, businesses can:
 
 
 🛠 Tech Stack
+
 Programming
 •Python
 
@@ -79,9 +80,11 @@ Performed:
 
 RFM stands for:
 
-Recency	        Days since last purchase
-Frequency	      Number of purchases
-Monetary	      Total customer spending
+Recency	    -    Days since last purchase
+
+Frequency	 -     Number of purchases
+
+Monetary	   -   Total customer spending
 
 
 🔶Customer Segments
@@ -97,12 +100,15 @@ Customers were categorized into:
 These segments help businesses create personalized retention campaigns.
 
 🔶Models Trained
+
 1. Logistic Regression
 Fast baseline model
 Highly interpretable
+
 2. Random Forest
 Ensemble learning
 Handles nonlinear patterns
+
 3. XGBoost
 Gradient boosting algorithm
 State-of-the-art performance
@@ -125,7 +131,9 @@ The best-performing model was automatically selected based on ROC-AUC score.
 SHAP was used to explain:
 
 •Why a customer was predicted to churn
+
 •Which features increased churn risk
+
 •Which features reduced churn risk
 
 This makes the model transparent and business-friendly.
