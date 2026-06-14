@@ -101,16 +101,16 @@ These segments help businesses create personalized retention campaigns.
 
 🔶Models Trained
 
-1. Logistic Regression
-Fast baseline model
+1. Logistic Regression -
+Fast baseline model,
 Highly interpretable
 
-2. Random Forest
-Ensemble learning
+2. Random Forest -
+Ensemble learning,
 Handles nonlinear patterns
 
-3. XGBoost
-Gradient boosting algorithm
+3. XGBoost -
+Gradient boosting algorithm,
 State-of-the-art performance
 
 
