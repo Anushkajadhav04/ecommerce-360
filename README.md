@@ -137,3 +137,7 @@ SHAP was used to explain:
 •Which features reduced churn risk
 
 This makes the model transparent and business-friendly.
+
+Streamlit deployment in progress — dataset exceeds GitHub's 25MB limit. Full source code available. Download dataset from Kaggle link to run locally.
+
+📥 Download dataset from Kaggle: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data    
